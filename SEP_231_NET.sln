@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySocket", "MySocket\MySocket.csproj", "{B7FC1DE2-94E0-44F3-B95C-CECC2BAC9942}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketServer", "SocketServer\SocketServer.csproj", "{A39EF40A-B281-4575-989F-C1D2BD1C3710}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B7FC1DE2-94E0-44F3-B95C-CECC2BAC9942}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7FC1DE2-94E0-44F3-B95C-CECC2BAC9942}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7FC1DE2-94E0-44F3-B95C-CECC2BAC9942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A39EF40A-B281-4575-989F-C1D2BD1C3710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A39EF40A-B281-4575-989F-C1D2BD1C3710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A39EF40A-B281-4575-989F-C1D2BD1C3710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A39EF40A-B281-4575-989F-C1D2BD1C3710}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
